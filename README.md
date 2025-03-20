@@ -1,6 +1,6 @@
 # TWITTER-SENTIMENTAL-ANALYSIS
 
-INTRODUCTION
+## INTRODUCTION
 
 This project focuses on building a Real-Time Twitter Sentiment Analysis System using Apache
 Kafka and Apache Spark Streaming. The system enables the ingestion, processing, and analysis
