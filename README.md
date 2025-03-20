@@ -10,7 +10,7 @@ data while providing sentiment insights with minimal latency. The aim of this pr
 leverage big data tools like Kafka and Spark to process large-scale tweet data, apply natural
 language processing (NLP) for sentiment analysis, and visualize the results in real time.
 
-Problem Statement
+## Problem Statement
 Twitter has become an important platform for gathering public opinion on various topics.
 However, analyzing the sentiments expressed in real-time is a challenge due to the speed and
 volume of data generation. Traditional batch processing systems introduce delays, making them
